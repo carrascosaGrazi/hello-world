@@ -1,2 +1,2 @@
 # hello-world
-Atividade 01 _ Back End_Turma 05_CUBOS ACADEMY
+Primeira atividade do módulo de Back End para a Turma 05 de Desenvolvedor de Software CUBOS ACADEMY.
